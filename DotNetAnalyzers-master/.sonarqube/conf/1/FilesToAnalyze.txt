@@ -1,0 +1,7 @@
+﻿C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetRefactoring\DotNetRefactoring.Test\Verifiers\CodeFixVerifier.cs
+C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetRefactoring\DotNetRefactoring.Test\Verifiers\DiagnosticVerifier.cs
+C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetRefactoring\DotNetRefactoring.Test\Helpers\CodeFixVerifier.Helper.cs
+C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetRefactoring\DotNetRefactoring.Test\Helpers\DiagnosticResult.cs
+C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetRefactoring\DotNetRefactoring.Test\Helpers\DiagnosticVerifier.Helper.cs
+C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetRefactoring\DotNetRefactoring.Test\Properties\AssemblyInfo.cs
+C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetRefactoring\DotNetRefactoring.Test\packages.config

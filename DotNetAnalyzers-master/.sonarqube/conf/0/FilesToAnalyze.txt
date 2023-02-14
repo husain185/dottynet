@@ -1,0 +1,8 @@
+﻿C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\Verifiers\CodeFixVerifier.cs
+C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\Verifiers\DiagnosticVerifier.cs
+C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\Helpers\CodeFixVerifier.Helper.cs
+C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\Helpers\DiagnosticResult.cs
+C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\Helpers\DiagnosticVerifier.Helper.cs
+C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\UnitTests.cs
+C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\Properties\AssemblyInfo.cs
+C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\packages.config

@@ -1,0 +1,9 @@
+ö
+êC:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\Verifiers\CodeFixVerifier.csutf-8ù
+ìC:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\Verifiers\DiagnosticVerifier.csutf-8ü
+ïC:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\Helpers\CodeFixVerifier.Helper.csutf-8ô
+èC:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\Helpers\DiagnosticResult.csutf-8¢
+òC:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\Helpers\DiagnosticVerifier.Helper.csutf-8ä
+ÄC:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\UnitTests.csutf-8ò
+éC:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\Properties\AssemblyInfo.csutf-8∫
+ÆC:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.csutf-8

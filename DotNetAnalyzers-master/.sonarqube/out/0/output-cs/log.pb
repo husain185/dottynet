@@ -1,0 +1,1 @@
+Roslyn version: 4.4.0.0Language version: CSharp7_3!Concurrent execution: enabled÷—File 'C:\Users\husain.sardaria\Desktop\DotNetAnalyzers-master\DotNetAnalyzers-master\DotNetAnalyzers\DotNetAnalyzers.Test\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.cs' was recognized as generated
